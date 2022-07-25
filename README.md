@@ -1,5 +1,8 @@
 # Build Config Maven Plugin
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/dev.grmek.maven/build-config-plugin/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/dev.grmek.maven/build-config-plugin)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=plastic)](LICENSE)
+
 `build-config-plugin` is a Maven plugin for generating `.java` source files based on project properties.
 Common scenario is to generate `Version.java` with project version.
 
